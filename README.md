@@ -1,2 +1,2 @@
-# -ounter-homework
+# Counter-homework
 For my.ijunior.ru
